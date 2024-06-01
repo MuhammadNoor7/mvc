@@ -1,1 +1,1 @@
-# mvc
+# This repository harnesses the capabilities of NumPy and pandas to streamline data-driven solutions and enhance data analysis. It explores the analysis of 3D functions through the lens of calculus and Python programming. Ideal for students and data enthusiasts alike, this project provides practical examples and tools to deepen your understanding of complex mathematical concepts in a hands-on manner. It aims at visualizing 3D functions for my MVC course ! 

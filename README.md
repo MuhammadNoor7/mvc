@@ -1,1 +1,0 @@
-# This repository harnesses the capabilities of NumPy , Pandas and Sci.py  to streamline data-driven solutions and enhance data analysis. It explores the analysis of 3D functions through the lens of calculus and Python programming. Thanks to this,  I can visualize 3d sketching for 3d functions in my mvc course :)
